@@ -1,2 +1,2 @@
 # Mern-task
-Mean Stack task 1&amp;2
+Mern Stack task 1&amp;2
