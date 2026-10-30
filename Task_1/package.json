@@ -1,0 +1,13 @@
+{
+  "name": "mern-lab-crud-array",
+  "version": "1.0.0",
+  "description": "CRUD operations on an in-memory array using HTML, CSS, Express and REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
