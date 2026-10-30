@@ -42,3 +42,16 @@ npm start
 ```
 http://localhost:3000
 ```
+
+## Output Screenshots
+
+### Dashboard View
+![alt text](<Screenshots/Screenshot 2026-10-31 at 12.41.53 AM.png>)
+
+### Add Item Form
+![alt text](<Screenshots/Screenshot 2026-10-31 at 12.42.50 AM.png>)
+
+### After Adding Item
+![alt text](<Screenshots/Screenshot 2026-10-31 at 12.43.31 AM.png>)
+![alt text](<Screenshots/Screenshot 2026-10-31 at 12.50.56 AM.png>)
+![alt text](<Screenshots/Screenshot 2026-10-31 at 12.56.22 AM 4.22.27 AM.png>)

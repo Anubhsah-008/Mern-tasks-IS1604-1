@@ -1,4 +1,4 @@
-# Northstar — MERN Sign Up
+# GRIDX — MERN Sign Up (Task-2)
 
 A full-stack sign-up application built with **MongoDB, Express.js, React, and Node.js**. The interface uses a responsive split-screen layout with a dark editorial-style welcome panel and a clean account creation form.
 
@@ -24,6 +24,22 @@ This lab project demonstrates a user registration workflow. A visitor enters the
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **Security:** bcryptjs password hashing
+
+## Projects Screenshots
+
+### Sign Up Page:
+![alt text](<Screeshots/Screenshot 2026-10-31 at 4.45.04 AM.png>)
+
+### After Creating User:
+![alt text](<Screeshots/Screenshot 2026-10-31 at 4.45.59 AM.png>) 
+![alt text](<Screeshots/Screenshot 2026-10-31 at 4.50.49 AM.png>)
+
+### User Already Exists:
+![alt text](<Screeshots/Screenshot 2026-10-31 at 4.54.51 AM.png>)
+
+### Database View:
+![alt text](<Screeshots/Screenshot 2026-10-31 at 4.56.23 AM.png>)
+
 
 ## API Endpoints
 
